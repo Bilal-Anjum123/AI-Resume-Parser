@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymupdf
+scikit-learn
+transformers
+torch
+streamlit
+python-multipart
+pydantic
